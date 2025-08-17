@@ -1,0 +1,81 @@
+Celebal Technologies
+Big Data Engineer (Apr 2024 - Present)
+
+No specific details provided for this role in the resume, but the LinkedIn profile indicates this is the current position.
+
+Associate Data Engineer (Mar 2023 - Mar 2024)
+
+This role likely encompasses the "Commercial Bank Thailand" and "Major Infrastructure Company UK" projects from the resume.
+
+Migrated an environment from TeraData to Databricks and developed multiple Spark notebooks.
+
+Designed and created Bronze, Silver, and Gold data layers by converting TeraData SQL Scripts to ANSI SQL.
+
+
+Set up ADF Pipelines and Notebooks for Data Validation and Reconciliation.
+
+Implemented Spark Optimization techniques like changing join structures and cluster resizing to meet SLAs.
+
+Designed and developed retail and Salesforce Ingestion ETL Processes using ADF, SQL Server, and Databricks.
+
+
+Implemented Slowly Changing Dimension (SCD) Type 2 for master data management.
+
+Enhanced data quality by enriching assets with metadata and automatically ingesting column descriptions.
+
+Managed and maintained retail data assets, and optimized old processes.
+
+Junior Associate - Data Engineering(App Development) (Sep 2022 - Mar 2023)
+
+This role likely aligns with the "Data Governance & Migration Project: Unity Catalog" from the resume.
+
+Designed and developed a Unity Catalog Migration Framework to automate the migration of Hive Metastore data to Unity Catalog.
+
+Worked with other vendors and teams to deliver over 1500 workspaces migrated to Unity Catalog.
+
+Managed and delivered 5 projects as a Tech Lead in various domains.
+
+Set up Azure Purview (Organization Wide) and Unity Catalog integration.
+
+Made Py-Spark code compatible with Unity Catalog for re-deployment on Databricks.
+
+Celebal Summer Intern (Jun 2022 - Jul 2022)
+RESTful API Development with FastAPI.
+
+SQL Database Integration.
+
+Django, Back-End Web Development.
+
+Business Development Consultant (Freelance)
+Apr 2017 - May 2021
+
+Developed and executed strategies for online brand identity creation.
+
+Conducted cost and manpower assessments to facilitate business setup on various online marketplaces.
+
+Focused on business-to-business (B2B) relationships and process improvement.
+
+Internet Advertisement Assessor (Lionbridge)
+Oct 2019 - Mar 2020
+
+Managed key accounts and assessed advertisements.
+
+Utilized skills in social media advertising and trend analysis.
+
+Management Trainee (Stellar Information Technology Pvt. Ltd.)
+May 2016 - Jul 2016
+
+Conducted research and analysis of company products and online marketing strategies.
+
+Gained hands-on experience in data mining and marketing.
+
+Education
+The education section is already well-defined in the resume.
+
+G.L Bajaj Institute of Management & Research, Greater Noida
+
+PGDM (Marketing & IT) (2017) 
+
+University of Kota, Kota
+
+B.com (2014) 
